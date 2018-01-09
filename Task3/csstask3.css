@@ -1,0 +1,31 @@
+body {background-color:#dddfd4;
+margin-top:0;};
+
+/*Header*/
+.navbar-default .navbar-brand {background-image: none;
+	background-color:#FFC300 !important;
+color:#173e43;}
+
+.navbar {border-bottom: 2px #173e43;}
+.navbar-brand {color:#173e43;
+font-size: 32px;}
+.navbar-brand a:hover{color:green;}
+.navbar-header button.navbar-toggle {border: 1px solid black;}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{border: 1px solid #173e43;}
+#nav-list{margin-top:10px;}
+#nav-list a {border-bottom:1px solid #173e43;
+margin:0;
+padding:0;}
+#nav-list a p {text-align:center;
+color:#173e43; 
+font-size:18px; 
+margin:0;
+padding:0;}
+section>div {font-size:20px;
+font-weight:bold;
+text-align:center;}
+#main-content{
+	background-color:#3fb0ac;
+margin:50px 20px 40px 30px;
+height:1000px;}
